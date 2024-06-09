@@ -8,7 +8,7 @@ import 'quasar/src/css/index.sass'
 import App from './App.vue'
 import axios from 'axios'
 
-axios.defaults.baseURL = 'http://localhost:4500/'
+axios.defaults.baseURL = 'https://jazzy-solid-oyster.glitch.me/'
 
 import { router } from './routes/routes.js'
 
